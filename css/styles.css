@@ -58,6 +58,9 @@ body, footer {
 
 /****END Navigation rules****/
 
+#center {
+    text-align: center;
+}
 
 
 /**** Images Section ****/
@@ -170,6 +173,11 @@ footer h6 {
 .portfolio .project {
 	background-color: #f2f3f4;
 	text-align: center;
+    /*Rounded Corners*/
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    /*END corners*/
 }
 
 .portfolio .project p {
