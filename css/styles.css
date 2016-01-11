@@ -178,6 +178,7 @@ footer h6 {
     -webkit-border-radius: 20px;
     border-radius: 20px;
     /*END corners*/
+    box-shadow: 15px 15px 10px silver;
 }
 
 .portfolio .project p {
