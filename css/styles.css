@@ -144,6 +144,14 @@ footer h6 {
 .about-me .column1 {
 	font-family: "Gentium Book Basic", Georgia, serif;
 	font-weight: 50;
+    background-color: #f2f3f4;
+    text-align: center;
+    /*Rounded Corners*/
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    /*END corners*/
+    box-shadow: 15px 15px 10px silver;
 }
 /**** END About Me ****/
 
